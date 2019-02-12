@@ -1,2 +1,3 @@
-# Horarios-Guardias-Profesores
-Horarios Guardias Profesores
+# Acceso
+- User: admin Pass: admin
+- User: usuario Pass: usuario
